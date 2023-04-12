@@ -86,7 +86,7 @@ body {
   right:5px;
 }
 
-.dropdown_menu {
+/* .dropdown_menu {
   display: none;
   position: absolute;
   left: 0;
@@ -102,4 +102,4 @@ body {
 .dropdown_menu ul li {
   width: 150px;
   padding: 10px;
-}
+} */
